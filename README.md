@@ -1,4 +1,4 @@
-PENJELASAN
+# PENJELASAN
 
 Program ini merupakan simulasi manajemen karyawan yang memanfaatkan konsep-konsep OOP seperti Encapsulation, Inheritance, Polymorphism, dan Interface.P
 
