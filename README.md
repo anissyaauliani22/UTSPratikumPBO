@@ -1,7 +1,7 @@
 # Penjelasan
 
-**Program ini merupakan simulasi manajemen karyawan yang memanfaatkan konsep-konsep OOP seperti Encapsulation, Inheritance, Polymorphism, dan Interface.P
-**
+Program ini merupakan simulasi manajemen karyawan yang memanfaatkan konsep-konsep OOP seperti Encapsulation, Inheritance, Polymorphism, dan Interface.P
+
 Program dimulai dengan mendeklarasikan sebuah list daftarKaryawan yang akan menyimpan objek-objek karyawan.
 Kemudian, tiga objek karyawan (dua programmer dan satu manajer) ditambahkan ke dalam list tersebut.
 Setelah itu, program menampilkan daftar karyawan beserta informasi gaji pokok mereka.
